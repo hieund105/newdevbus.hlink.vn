@@ -1,1 +1,1 @@
-Hlink bus master
+Hlink bus
